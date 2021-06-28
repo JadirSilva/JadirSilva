@@ -55,9 +55,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JadirSilva&langs_count=5&theme=bear">
 </p>
 
-<a href="https://github.com/JadirSilva/Ola-Mundo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JadirSilva&repo=Ola-Mundo" />
-</a>
+
 
 
 
