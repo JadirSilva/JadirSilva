@@ -1,16 +1,56 @@
-### Hi there 👋
+<span align="center">
 
-<!--
-**JadirSilva/JadirSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
 
-Here are some ideas to get you started:
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="480px" />
+
+</div>
+
+<br>
+<p align="center">
+  <strong>Sou Estudante de Programação</strong>.<br />
+<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
+e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
+</p>
+
+<p align="center">
+  💼 Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
+</p>
+
+
+<p align="center">
+  🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
+</p>
+
+<p align="center">
+  💌 Envie uma mensagem: ⤵️
+</p>
+
+<p align="center">
+    <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
+ </p> 
+ 
+ ## 💻 Technologies & Tools
+
+<p align="center">
+  
+ 
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+
+</p>
+
+## ⭐ GitHub Stats
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=keidsondesigner&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=keidsondesigner&hide=css,java,html&theme=tokyonight">
+</p>
