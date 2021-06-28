@@ -52,5 +52,5 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=JadirSilva&show_icons=true&theme=tokyonight&line_height=27">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JadirSilva&theme=tokyonight">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JadirSilva&langs_count=3&theme=tokyonight">
 </p>
