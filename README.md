@@ -54,3 +54,11 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <img src = "https://github-readme-stats.vercel.app/api?username=JadirSilva&show_icons=true&theme=bear&line_height=27">
    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JadirSilva&langs_count=5&theme=bear">
 </p>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JadirSilva&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/Ola-Mundo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JadirSilva&repo=Ola-Mundo" />
+</a>
+
