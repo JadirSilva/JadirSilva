@@ -60,5 +60,6 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </a>
 
 
+[![Readme Card](https://Ola-Mundo.vercel.app/api/pin/?username=JadirSilva&repo=Ola-Mundo)](https://github.com/JadirSilva/Ola-Mundo)
 
 
