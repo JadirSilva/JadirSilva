@@ -59,3 +59,6 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JadirSilva&repo=Ola-Mundo" />
 </a>
 
+api/pin?username=JadirSilva&repo=Ola-Mundo
+
+
