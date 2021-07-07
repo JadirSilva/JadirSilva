@@ -8,7 +8,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JadirSilva)](https://github.com/JadirSilva)
 
 
-
+<div align="center">
 <img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 </div>
@@ -16,6 +16,7 @@
 
 <br>
 
+<div>
 <h3 align="center"> Olá 👋 </h3></br>
 <p align="center" >Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</p>
 
@@ -38,7 +39,7 @@
 <p align="center">
   💌 Envie uma mensagem: ⤵️
 </p>
-
+</div>
 <p align="center">
     <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
