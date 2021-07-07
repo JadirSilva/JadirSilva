@@ -1,4 +1,4 @@
-<span align="center">
+<span>
 
 ## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
 
@@ -7,7 +7,7 @@
 
 
 <br>
-<p align="center">
+<p >
   <strong>Sou Estudante de Programação</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
@@ -27,16 +27,18 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
  🎯 Objetivo: Pretendo me tornar Desenvolvedora Front-End.
 </p>
 
-
-<p align="center">
+<p >
 Lover of Technology and Coding 💓
 </p>
 
-<p align="center">
+
+<p >
   💌 Envie uma mensagem: ⤵️
 </p>
 
-<p align="center">
+
+
+<p >
     <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
  </p> 
