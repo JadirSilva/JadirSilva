@@ -21,18 +21,12 @@
 <p align="center" >Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</p>
 
 
-<p>
-- 💻 **Linguagens:** Html, CSS, JavaScript, React e em busca de aprender muito mais!</br>
-</p>
-
-- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma.</br>
-
-
-- 📚 **Acadêmico:** Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da **[Origamid](https://www.origamid.com/)**</br>
-
-
-
-- 🎯 **Objetivo:** <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
+<ul align="center">
+<li>- 💻 Linguagens: Html, CSS, JavaScript, React e em busca de aprender muito mais!</li></br>
+- 🎨  Ferramentas: Visual Studio Code, GitHub, Figma.</br>
+- 📚  Acadêmico: Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da **[Origamid](https://www.origamid.com/)**</br>
+- 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
+</ul> 
 
 
 
