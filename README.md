@@ -21,9 +21,9 @@
 <p align="center" >Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</p>
 
 
-
+<p>
 - 💻 **Linguagens:** Html, CSS, JavaScript, React e em busca de aprender muito mais!</br>
-
+</p>
 
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma.</br>
 
