@@ -15,13 +15,13 @@
 <h3 ><strong>Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</strong></h3>
 
 
-
+<div align="center">
 
 - 💻 **Linguagens:** Html, CSS, JavaScript, Node.js, SQL, React e em busca de aprender muito mais!
 - 🚀 **Estudando:** Html, JavaScript, CSS, Sass e React.
 - 📚 **Acadêmico:** Cursando faculdade de Análise e Desenvolvimento de Sistemas, e  cursos da **[Origamid](https://www.origamid.com/)**
 
-
+</div>
 
 
 <p >
