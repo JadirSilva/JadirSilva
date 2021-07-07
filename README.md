@@ -4,6 +4,12 @@
 
 </span>
 
+<span align="center">
+
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
+
+</span>
+
 <div align="center">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600px" />
@@ -12,19 +18,16 @@
 
 <br>
 <p align="center">
-  <strong>Olá, sou a Jadir</strong>.<br />
-<strong>Sou estudante de Análise e Desenvolvimento de Sistemas.</strong><br />
-<strong>E sou apaixonado por tecnologia</strong>.
+  <strong>Olá, sou a Ariane, estudante de Análise e Desenvolvimento de Sistemas.</strong>.<br />
+  <strong>E sou apaixonada por tecnologia. 💓</strong>.
 </p>
 
 <p align="center">
-  💼 Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
-</p>
-
-
-<p align="center">
+  💼  Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
   🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
+  🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
 </p>
+
 
 <p align="center">
   💌 Envie uma mensagem: ⤵️
