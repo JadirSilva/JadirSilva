@@ -25,10 +25,14 @@
   🚀  Estudando: <strong>Html, JavaScript, CSS, Sass e React.</strong>
 </p>
 
+<p align="center">
 • 🎯 Objetivo: Pretendo me tornar Desenvolvedora Front-End.
+</p>
 
+
+<p align="center">
 Lover of Technology and Coding 💓
-
+</p>
 <p align="center">
   💌 Envie uma mensagem: ⤵️
 </p>
