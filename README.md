@@ -24,8 +24,8 @@
 <ul >
 <li> 💻 Linguagens: Html, CSS, JavaScript, React e em busca de aprender muito mais!</li></br>
 <li> 🎨  Ferramentas: Visual Studio Code, GitHub, Figma.</li></br>
-- 📚  Acadêmico: Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da **[Origamid](https://www.origamid.com/)**</br>
-- 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
+<li> 📚  Acadêmico: Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da **[Origamid](https://www.origamid.com/)</li></br>
+<li> 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong></li>
 </ul> 
 
 
