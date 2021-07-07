@@ -11,10 +11,8 @@
 
 
 <br>
-
+<div align="center">
 <h3 ><strong>Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</strong></h3>
-
-
 
 <p >
 💻  Linguagens: <strong>Html, CSS, JavaScript, React e em busca de aprender muito mais!</strong>
@@ -31,7 +29,7 @@
 <p >
 👩‍💻  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
 </p> 
-
+</div>
 
 
 
