@@ -11,17 +11,15 @@
 
 
 <br>
-<div align="center">
+
 <h3 ><strong>Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</strong></h3>
 
-<p >
-💻  Linguagens: <strong>Html, CSS, JavaScript, React e em busca de aprender muito mais!</strong>
-</p>  
 
-<p >
-📚  Acadêmico: <strong>Cursando faculdade de Análise e Desenvolvimento de Sistemas.</strong></br>
-</p>
-</div>
+
+
+- 💻 **Linguagens:** Html, CSS, JavaScript, Node.js, SQL, React e em busca de aprender muito mais!
+- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma.
+- 📚 **Acadêmico:** Cursando faculdade de Análise e Desenvolvimento de Sistemas, e  cursos da **[Origamid](https://www.origamid.com/)**
 
 
 
@@ -33,7 +31,7 @@
 <p align="center">
   💌 Envie uma mensagem: ⤵️
 </p>
-</div>
+
 <p align="center">
     <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
