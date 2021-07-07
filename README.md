@@ -1,4 +1,4 @@
-<span>
+<span align="center">
 
 ## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
 
@@ -7,38 +7,39 @@
 
 
 <br>
-<p >
+<p align="center">
   <strong>Sou Estudante de Programação</strong>.<br />
 <strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
 e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
 
-<p>
+<p align="center">
   💼 Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
 </p>
 
 
-<p >
+<p align="center">
   🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
 </p>
 
 
-<p ">
+<p align="center">
  🎯 Objetivo: Pretendo me tornar Desenvolvedora Front-End.
 </p>
 
-<p >
-Lover of Technology and Coding 💓
+
+<p align="center">
+  Lover of Technology and Coding 💓
 </p>
 
-
-<p >
+<p align="center">
   💌 Envie uma mensagem: ⤵️
 </p>
 
+<p align="center">
+<img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailtojadir32@outlook.com)]
+(mailto:jadir32@outlook.com) " />
 
-
-<p >
     <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
  </p> 
