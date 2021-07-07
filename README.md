@@ -23,9 +23,7 @@
 </p>
 </div>
 
-<p align="center">
-🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
-</p> 
+
 
 <p >
 👩‍💻  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
