@@ -31,8 +31,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-  <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailtojadir32@outlook.com)
-  (mailto:jadir32@outlook.com) " />
+  
     <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
  </p> 
