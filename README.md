@@ -12,7 +12,7 @@
 
 <br>
 
-<p align="center"><strong>Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</strong></p>
+<h2 align="center"><strong>Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</strong></h2>
 
 
 
