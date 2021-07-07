@@ -4,12 +4,6 @@
 
 </span>
 
-<span align="center">
-
-## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
-
-</span>
-
 <div align="center">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600px" />
@@ -23,10 +17,14 @@
 </p>
 
 <p align="center">
-  💼  Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
-  🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
-  🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
-</p>
+ • 💼  Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
+</p>  
+<p align="center">
+ • 🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
+</p> 
+<p align="center">
+ • 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
+</p> 
 
 
 <p align="center">
