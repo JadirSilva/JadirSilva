@@ -4,8 +4,9 @@
 
 </span>
 
+<span align="center">
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JadirSilva)](https://github.com/JadirSilva)
-
+</span>
 <div align="center">
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600px" />
@@ -14,12 +15,18 @@
 
 
 <br>
-<h3> Olá 👋 </h3>
+<div align="center">
+<h3> Olá 👋 </h3></br>
 Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓
+</div> 
 
 <p align="center">
 - 💻 **Linguagens:** Html, CSS, JavaScript, React e em busca de aprender muito mais!</br>
+</p> 
+<p align="center">
 - 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma.</br>
+</p> 
+<p align="center">
 - 📚 **Acadêmico:** Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da **[Origamid](https://www.origamid.com/)**</br>
 </p> 
 
