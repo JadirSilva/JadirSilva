@@ -12,15 +12,15 @@
 
 <br>
 <p align="center">
-  <strong>Olá, sou a Ariane, estudante de Análise e Desenvolvimento de Sistemas.</strong>.<br />
-  <strong>E sou apaixonada por tecnologia. 💓</strong>.
+  <strong>Olá, sou a Ariane, estudante de Análise e Desenvolvimento de Sistemas.</strong><br />
+  <strong>E sou apaixonada por tecnologia. 💓</strong>
 </p>
 
 <p align="center">
  • 💼  Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
 </p>  
 <p align="center">
- • 🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
+ • 🚀  Estudando: <strong> Html, JavaScript, CSS, Sass e React.</strong>
 </p> 
 <p align="center">
  • 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
