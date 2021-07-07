@@ -2,7 +2,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JadirSilva)](https://github.com/JadirSilva)
 
 
-<h1 align="center">
+<h1 >
   <img src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </h1>
 
