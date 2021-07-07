@@ -23,7 +23,7 @@
 </p>
 </div>
 
-<p >
+<p align="center">
 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
 </p> 
 
