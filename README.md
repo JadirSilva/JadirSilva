@@ -31,7 +31,7 @@
 </p> 
 
 <p align="center">
-🚀  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
+👩‍💻  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
 </p> 
 
 
