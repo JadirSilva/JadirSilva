@@ -12,9 +12,8 @@
 
 <br>
 <p align="center">
-  <strong>Sou Estudante de Programação</strong>.<br />
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
-e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
+  <strong>Olá, sou a Ariane! Sou estudante de Análise e Desenvolvimento de Sistemas</strong>.<br />
+<strong> E sou apaixonada por tecnologia.</strong>.
 </p>
 
 <p align="center">
@@ -23,16 +22,20 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 
 
 <p align="center">
-  🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
+  🚀  Estudando: <strong>Html, JavaScript, CSS, Sass e React.</strong>
 </p>
+
+• 🎯 Objetivo: Pretendo me tornar Desenvolvedora Front-End.
+
+Lover of Technology and Coding 💓
 
 <p align="center">
   💌 Envie uma mensagem: ⤵️
 </p>
 
 <p align="center">
-  <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
+    <a href="https://www.facebook.com/ariane.brum.54" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ariane.brum.54"/></a>
  </p> 
  
  ## 💻 Technologies & Tools
@@ -45,6 +48,7 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
 </p>
 
