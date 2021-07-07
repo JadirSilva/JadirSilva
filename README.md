@@ -17,7 +17,7 @@
 <br>
 
 
-<h3 align="center"> Olá 👋 </h3></br>
+
 <p align="center" >Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</p>
 
 
