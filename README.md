@@ -31,12 +31,14 @@
 </p>
 
 <p align="center">
-🚀  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
+🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
 </p> 
 
 <p align="center">
-🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
+🚀  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
 </p> 
+
+
 
 
 
