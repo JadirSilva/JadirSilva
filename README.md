@@ -4,16 +4,13 @@
 
 </span>
 
-<div align="center">
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600px" />
-
-</div>
 
 <br>
 <p align="center">
-  <strong>Olá, sou a Ariane! Sou estudante de Análise e Desenvolvimento de Sistemas</strong>.<br />
-<strong> E sou apaixonada por tecnologia.</strong>.
+  <strong>Sou Estudante de Programação</strong>.<br />
+<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
+e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
 </p>
 
 <p align="center">
@@ -22,24 +19,19 @@
 
 
 <p align="center">
-  🚀  Estudando: <strong>Html, JavaScript, CSS, Sass e React.</strong>
+  🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
 </p>
 
-<p align="center">
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedora Front-End.
-</p>
-
-
-<p align="center">
-Lover of Technology and Coding 💓
-</p>
 <p align="center">
   💌 Envie uma mensagem: ⤵️
 </p>
 
 <p align="center">
-    <a href="https://www.facebook.com/ariane.brum.54" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/ariane.brum.54"/></a>
+<img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailtojadir32@outlook.com)]
+(mailto:jadir32@outlook.com) " />
+
+    <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
  </p> 
  
  ## 💻 Technologies & Tools
@@ -52,7 +44,6 @@ Lover of Technology and Coding 💓
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 
 </p>
 
