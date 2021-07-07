@@ -21,6 +21,7 @@
 <p >
 📚  Acadêmico: <strong>Cursando faculdade de Análise e Desenvolvimento de Sistemas.</strong></br>
 </p>
+</div>
 
 <p >
 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
@@ -29,9 +30,6 @@
 <p >
 👩‍💻  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
 </p> 
-</div>
-
-
 
 
 <p align="center">
