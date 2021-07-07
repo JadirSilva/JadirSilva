@@ -27,7 +27,7 @@
 </p>  
 
 <p align="center">
-• 📚  Acadêmico: Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da **[Origamid](https://www.origamid.com/)**</br>
+• 📚  Acadêmico: Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da <a href="https://www.origamid.com/">Origamid</a></br>
 </p>
 
 <p align="center">
