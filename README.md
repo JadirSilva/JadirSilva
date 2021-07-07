@@ -19,7 +19,7 @@
 
 
 <p align="center">
-💻  Linguagens: <strong>Html, CSS, JavaScript, React e em busca de aprender muito mais!</strong>
+💻 <strong> Linguagens:</strong> Html, CSS, JavaScript, React e em busca de aprender muito mais!
 </p>  
 
 <p align="center">
