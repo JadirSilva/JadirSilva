@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
  </p> 
  
- ## 💻 Technologies & Tools
+ # 💻 Technologies & Tools
 
 <p align="center"> 
   
