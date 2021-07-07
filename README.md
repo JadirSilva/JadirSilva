@@ -16,10 +16,10 @@
 
 
 <div align="center">
- 📚 **Acadêmico:** Cursando faculdade de Análise e Desenvolvimento de Sistemas, e  cursos da **[Origamid](https://www.origamid.com/)**</br>
  💻 **Linguagens:** Html, CSS, JavaScript, React e em busca de aprender muito mais!</br>
  🚀 **Estudando:** Html, JavaScript, CSS, Sass e React.</br>
  
+ 📚 **Acadêmico:** Cursando faculdade de Análise e Desenvolvimento de Sistemas, e  cursos da **[Origamid](https://www.origamid.com/)**</br>
 
 </div>
 
