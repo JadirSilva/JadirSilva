@@ -5,14 +5,14 @@
 </span>
 
 <div align="center">
-<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="center" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600px"/>
 
 </div>
 
 
 <br>
 
-<h3 ><strong>Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</strong></h3>
+<h3 align="center"><strong>Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓</strong></h3>
 
 
 <div align="center">
@@ -36,7 +36,7 @@
  
  ## 💻 Technologies & Tools
 
-<p > 
+<p align="center"> 
   
  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
