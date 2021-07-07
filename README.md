@@ -12,8 +12,8 @@
 
 <br>
 <p align="center">
-  <strong>Olá, sou a Ariane, estudante de Análise e Desenvolvimento de Sistemas.</strong><br />
-  <strong>E sou apaixonada por tecnologia. 💓</strong>
+  <strong>Olá, sou o Jadir, estudante de Análise e Desenvolvimento de Sistemas.</strong><br />
+  <strong>E sou apaixonado por tecnologia.</strong>
 </p>
 
 <p align="center">
@@ -52,8 +52,8 @@
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JadirSilva&show_icons=true&theme=bear&line_height=27">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JadirSilva&langs_count=5&theme=bear">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JadirSilva&show_icons=true&theme=tokyonight&line_height=27">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JadirSilva&langs_count=5&theme=tokyonight">
 </p>
 
 
