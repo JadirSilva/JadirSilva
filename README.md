@@ -23,19 +23,19 @@
 
 
 <p align="center">
- • 💻  Linguagens: <strong>Html, CSS, JavaScript, React e em busca de aprender muito mais</strong>
+💻  Linguagens: <strong>Html, CSS, JavaScript, React e em busca de aprender muito mais!</strong>
 </p>  
 
 <p align="center">
-• 📚  Acadêmico: Cursando faculdade de Análise e Desenvolvimento de Sistemas</br>
+📚  Acadêmico: <strong>Cursando faculdade de Análise e Desenvolvimento de Sistemas.</strong></br>
 </p>
 
 <p align="center">
- • 🚀  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
+🚀  Estudando: <strong> Html, JavaScript, CSS, Sass e React</strong>
 </p> 
 
 <p align="center">
- • 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
+🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
 </p> 
 
 
