@@ -14,17 +14,17 @@ e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</s
 </p>
 
 <p align="center">
-•  💼 Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
+💼 Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
 </p>
 
 
 <p align="center">
-•  🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
+🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
 </p>
 
 
 <p align="center">
-• 🎯 Objetivo: Pretendo me tornar Desenvolvedora Front-End.
+🎯 Objetivo: Pretendo me tornar Desenvolvedora Front-End.
 </p>
 
 
