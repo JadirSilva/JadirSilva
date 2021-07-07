@@ -4,32 +4,26 @@
 
 </span>
 
+<div align="center">
 
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600px" />
+
+</div>
 
 <br>
 <p align="center">
-  <strong>Sou Estudante de Programação</strong>.<br />
-<strong>Tenho um grande sonho</strong> de me tornar um <strong>Programador,</strong>
-e poder <strong>criar algo</strong> que possa <strong>ajudar todas as pessoas</strong>.
+  <strong>Olá, sou a Jadir</strong>.<br />
+<strong>Sou estudante de Análise e Desenvolvimento de Sistemas.</strong><br />
+<strong>E sou apaixonado por tecnologia</strong>.
 </p>
 
 <p align="center">
-💼 Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
-</p>
-
-
-<p align="center">
-🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
+  💼 Habilidades: <strong>Javascript, Html, GitHub, Css, React.</strong>
 </p>
 
 
 <p align="center">
-🎯 Objetivo: Pretendo me tornar Desenvolvedora Front-End.
-</p>
-
-
-<p align="center">
-💓 Lover of Technology and Coding 
+  🚀  Estudando: <strong>JavaScript, CSS3 e React.</strong>
 </p>
 
 <p align="center">
