@@ -1,18 +1,41 @@
-# Jadir Silva 👩‍💻
+<span align="center">
+
+## <img src="https://i.imgur.com/0hdZ65D.gif" width="40px"> Olá seja bem-vindo(a)!</h2>
+
+</span>
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/JadirSilva)](https://github.com/JadirSilva)
 
+<div align="center">
 
-<h1 >
-  <img src ="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-</h1>
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600px" />
 
+</div>
+
+
+<br>
 <h3> Olá 👋 </h3>
 Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓
 
+<p align="center">
+- 💻 **Linguagens:** Html, CSS, JavaScript, React e em busca de aprender muito mais!</br>
+- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma.</br>
+- 📚 **Acadêmico:** Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da **[Origamid](https://www.origamid.com/)**</br>
+</p> 
 
-- 💻 **Linguagens:** Html, CSS, JavaScript, React e em busca de aprender muito mais!
-- 🎨 **Ferramentas:** Visual Studio Code, GitHub, Figma.
-- 📚 **Acadêmico:** Cursando faculdade de Análise e Desenvolvimento de Sistemas, e cursos da **[Origamid](https://www.origamid.com/)**
+<p align="center">
+ • 🎯  Objetivo: <strong>Pretendo me tornar Desenvolvedora Front-End.</strong>
+</p> 
+
+
+<p align="center">
+  💌 Envie uma mensagem: ⤵️
+</p>
+
+<p align="center">
+    <a href="https://www.facebook.com/jadir.silva.7731/" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/jadir.silva.7731/"/></a>
+ </p> 
  
  ## 💻 Technologies & Tools
 
@@ -30,8 +53,8 @@ Meu nome é Jadir Silva e sou apaixonado por tecnologia. 💓
 ## ⭐ GitHub Stats
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=JadirSilva&show_icons=true&theme=tokyonight&line_height=27">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JadirSilva&langs_count=5&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JadirSilva&show_icons=true&theme=bear&line_height=27">
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JadirSilva&langs_count=5&theme=bear">
 </p>
 
 
